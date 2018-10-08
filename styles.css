@@ -1,0 +1,115 @@
+.header {
+  background-color: #93dde8;
+  margin: 0;
+}
+
+.banner-logo{
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+}
+
+.anchor{
+  float: right;
+  margin: 12px;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.head1{
+  display: block;
+  text-align: center;
+  background: url(imagess/park.jpg) no-repeat;
+  width: 100%;
+  background-size: cover;
+  height: 375px;
+}
+
+.site {
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.button{
+  background-color: white;
+  text-decoration: none;
+  border: 4px solid rgb(63,141,167);
+  padding: 4px;
+  color: rgb(63,141,167);
+}
+
+.circle, .circle1{
+  border: 4px solid rgb(63,141,167);
+  border-radius: 50%;
+}
+
+.circle{
+  height: 200px;
+  width: 200px;
+}
+
+*{
+  font-family: 'Raleway', sans-serif;
+}
+
+.dog-stuff{
+  margin-bottom: 15px;
+  margin-top: 8px;
+  text-align: center;
+  float: left;
+  width: 33%;
+}
+
+.notes{
+    width: 50%;
+    border: 3px solid blue;
+    padding: 10px;
+}
+
+.footer {
+  height: 125px;
+  text-align: center;
+  float: left;
+  background-color: rgb(63,141,167);
+  width: 100%;
+}
+
+.learn{
+  color: white;
+  margin-top: 10px;
+}
+
+.link2{
+  color: white;
+  margin: 10px;
+  margin-top: 5px;
+}
+
+.bottom{
+  margin-bottom: 3px;
+}
+
+.image2{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.button1{
+  margin-top: 4px;
+  background-color: white;
+  text-decoration: none;
+  border: 4px solid rgb(63,141,167);
+  padding: 4px;
+  color: rgb(63,141,167);
+}
+
+.circle1{
+  margin: 8px;
+}
+/*rgb(63,141,167)
+color for the bottom and for border buttons*/
+/*.clearfix:after {
+  content: ' ';
+  display: table;
+  clear: both;*/
